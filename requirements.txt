@@ -1,0 +1,10 @@
+pandas>=2.2.0
+numpy>=1.26.0
+scipy>=1.11.0
+nfl_data_py>=0.3.1
+xgboost>=2.0.0
+scikit-learn>=1.4.0
+requests
+html5lib
+beautifulsoup4
+lxml
